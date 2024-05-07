@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(188, 58, 60);
+}
+
+header {
+    background-color: rgb(151, 32, 46);   
+    height: 30px;
+    margin: 0 auto;
+}
+
+a {
+    color: bisque;
+    text-decoration: none;
+}
+
+h1 {
+    color: bisque;
+    margin: 0 auto;
+}
+
+.link-nav {
+    padding: 15px;
+}
+
+footer {
+    margin: 0px;
+    bottom: 0px;
+    float: left;
+    padding: 0px;
+    background-color: rgb(151, 32, 46);
+}
+
+.link-header {
+    padding: 15px;
+}
+
+.lox {
+   color: bisque;
+}
+
+.lox2 {
+    color: bisque;
+}
+
+.hol {
+    float: right;
+    padding: 0px;
+    margin-top: 20px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+.muu {
+    display: flex;
+    margin: auto;
+}
+
+li {
+    color: bisque;
+}
